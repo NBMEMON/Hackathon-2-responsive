@@ -19,3 +19,14 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+.Footer {
+  font-size: 10px;
+  color: #7E7E7E;
+  display: flex;  /* Use flex to enable gap */
+ margin-top: 40px;
+}
+
+.Footer ul li{
+  padding-bottom: 19px;
+  
+}
