@@ -25,7 +25,7 @@ const ProductCarousel: React.FC = () => {
               <p className="text-gray-600 text-sm sm:text-base">₹13,995</p>
             </div>
           </Link>
-          <p className="text-gray-500 text-xs sm:text-sm mt-1">Women's Shoes</p>
+          <p className="text-gray-500 text-xs sm:text-sm mt-1">Womens Shoes</p>
         </div>
 
         {/* Product 2 */}
@@ -37,7 +37,7 @@ const ProductCarousel: React.FC = () => {
               <p className="text-gray-600 text-sm sm:text-base">₹13,995</p>
             </div>
           </Link>
-          <p className="text-gray-500 text-xs sm:text-sm mt-1">Men's Shoes</p>
+          <p className="text-gray-500 text-xs sm:text-sm mt-1">Mens Shoes</p>
         </div>
 
         {/* Product 3 */}
@@ -49,7 +49,7 @@ const ProductCarousel: React.FC = () => {
               <p className="text-gray-600 text-sm sm:text-base">₹13,995</p>
             </div>
           </Link>
-          <p className="text-gray-500 text-xs sm:text-sm mt-1">Men's Shoes</p>
+          <p className="text-gray-500 text-xs sm:text-sm mt-1">Mens Shoes</p>
         </div>
       </div>
     </section>

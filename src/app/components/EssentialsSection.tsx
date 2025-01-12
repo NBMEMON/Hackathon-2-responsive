@@ -8,7 +8,7 @@ const FlightEssentialsSection: React.FC = () => {
   return (
     <section className="flight-essentials bg-white py-12">
       <p className="text-[20px] font-bold ml-4 md:ml-20 mb-4">
-        Don't Miss
+        Dont Miss
       </p>
       <div className="flex justify-center mb-6">
         <Image src={Banner2} alt="Featured Banner" className="max-w-full h-auto" />
